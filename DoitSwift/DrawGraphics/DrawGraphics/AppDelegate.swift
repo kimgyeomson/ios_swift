@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  DrawFraphics
+//  DrawGraphics
 //
 //  Created by 김겸손 on 3/11/24.
 //
